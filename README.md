@@ -1,7 +1,7 @@
 ## Hi, I'm Leah
 📂Self-taught programmer <br/>
 🔮Building programs that excite me <br/>
-🌺Always learning the latest tech <br/>
+🌺Always staying updated with the latest tech <br/>
 🌱Currently developing a portfolio <br/>
 
 
