@@ -1,4 +1,4 @@
-## Hi, I'm Leah
+## Leah | Software Developer
 📂Self-taught programmer <br/>
 🔮Building software that excite me <br/>
 🌱Currently developing a portfolio <br/>
